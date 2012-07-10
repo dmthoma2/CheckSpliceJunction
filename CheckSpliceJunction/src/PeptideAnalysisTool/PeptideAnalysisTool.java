@@ -31,7 +31,8 @@ import PeptideAnalysisTool.subClasses.PeptideLocationLine;
  * 
  * Spanning - Splice Junctions
  * Location - Label: Intronic, Exonic, etc
- * **NOTE FOR SPLICE JUNCTION CHECKING: IF A PEPTIDE OCCURS IN MORE THEN ONE LOCATION IN A PROTEIN THEN ONLY THE FIRST ONE IS CONSIDERED.  THIS IS A AMBIGUITY THAT CAN ONLY BE SOLVED IF CORRECT START/STOP LOCATIONS ARE AVAILABLE***
+ * 
+ * 
  * @author David "Corvette" Thomas
  *
  */

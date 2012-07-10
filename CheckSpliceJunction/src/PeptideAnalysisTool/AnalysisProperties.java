@@ -13,7 +13,7 @@ public class AnalysisProperties {
 	
 	//File/Directory Locations
 	public static String annotationFile;
-	public static String outputDir;
+	public static String outputDir = "/output/";
 	public static String peptideListFile;
 	
 	

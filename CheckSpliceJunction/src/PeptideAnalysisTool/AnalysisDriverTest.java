@@ -2,6 +2,13 @@ package PeptideAnalysisTool;
 
 import PersonalProteome.U;
 
+/**
+ * Analysis Driver Test is a simple test class used when testing AnalysisDriver.  It has code primarily concerned with accurate round of double values, which
+ * gave a lot of trouble in debugging.  
+ * 
+ * @author David "Corvette" Thomas
+ *
+ */
 public class AnalysisDriverTest {
 
 	
