@@ -25,7 +25,8 @@ outputDir /Users/davidthomas/Peppy/synthesis/peptideLocationAnalysis/output
 //peptideListFile /Users/davidthomas/Peppy/synthesis/exonspanning/All_GencodeResultsToCountPeptide.txt
 //peptideListFile /Users/davidthomas/Peppy/synthesis/exonspanning/All_ResultsFromRefSeqEValue.08.txt
 //peptideListFile /Users/davidthomas/Peppy/synthesis/peptideLocationAnalysis/All_FilteredbedForUniqueSpectraToUniqueLoci.txt
-peptideListFile /Users/davidthomas/Peppy/synthesis/peptideLocationAnalysis/GencodeIntergenic5%_BestPSMnoProteinNo2missedCleav
+//peptideListFile /Users/davidthomas/Peppy/synthesis/peptideLocationAnalysis/GencodeIntergenic5%_BestPSMnoProteinNo2missedCleav
+peptideListFile /Users/davidthomas/Downloads/AllHG191R_toRanked_removedProteinTranscript_UniqueNonExonic.bed
 //peptideListFile /Users/davidthomas/Peppy/synthesis/peptideLocationAnalysis/TestFile
 
 

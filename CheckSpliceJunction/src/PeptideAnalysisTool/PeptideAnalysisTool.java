@@ -224,7 +224,11 @@ public class PeptideAnalysisTool{
 				}
 				
 				//Preserve the rest of the data from the input file
+				if(s.hasNextLine()){
 				token = s.nextLine();
+				}else{
+					break;
+				}
 				restOfLine = token;
 				
 				//Add the newly read line into the peptideLocationList
